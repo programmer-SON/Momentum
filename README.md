@@ -1,6 +1,4 @@
-# Momentum
-
-javascript을 Momentum 개발
+# javascript을 Momentum 개발
 ==========================
 
 ### 프로젝트(학습) 목적
